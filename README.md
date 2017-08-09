@@ -1,5 +1,7 @@
 # datalake-v1-1-network
 
+https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.1/bk_command-line-installation/content/prepare-environment.html
+
 Use this command to find your active zone(s):
 
 firewall-cmd --get-active-zones
